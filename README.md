@@ -1,6 +1,6 @@
 # AI Research Portfolio: Perplexity Deep Research Example
-
-This repository demonstrates how Perplexity AI can be used for deep research on emerging industry trends. The example below explores how artificial intelligence is transforming the communications and public relations industry, which is my field of study for my bachelor’s and master’s degree (2020-2025). The public relations professional in the age of AI is less focused on content production and more focused relationship-building and managing AI tools. 
+ 
+This repository demonstrates how Perplexity AI can be used for deep research on emerging industry trends. The example below explores how artificial intelligence is transforming the communications and public relations industry, which is my field of study for my bachelor’s and master’s degree (2020-2025). The public relations professional in the age of AI is less focused on content production and more focused on relationship-building and managing AI tools. 
 ---
 
 # Deep Research Prompt
